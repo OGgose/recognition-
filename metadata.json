@@ -1,0 +1,8 @@
+{
+  "name": "recognition ",
+  "description": "Real-time age, gender, and expression analysis using Gemini Flash Lite, plus Veo video generation and Thinking mode chat.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
